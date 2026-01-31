@@ -1,5 +1,5 @@
 trigger: none 
-pool: applicationpool
+pool: Vinod
 
 stages:
 - stage: build
